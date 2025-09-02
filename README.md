@@ -4,7 +4,7 @@
 # ------------------------------------------------------------------
 ## 1.-Introducción al desarrollo web
 
-https://cursa-json-routes.s3.amazonaws.com/texts/byId/1000515/imgs/thumb.webp
+![Uploading image.png…]()
 
 ### Historia y evolución del desarrollo web.
 ### El desarrollo web comenzó con la invención de la World Wide Web por Tim Berners-Lee en 1989, lanzando el primer sitio web en 1991 y el lenguaje HTML. La Web 1.0 (aproximadamente 1991-2003) fue estática, y la evolución se impulsó con la llegada de CSS para el diseño, la popularización de los motores de búsqueda como ALIWEB, y la introducción de imágenes y tablas. La Web 2.0 (desde 2003) se centró en la interactividad, la colaboración y el contenido generado por el usuario, con la incorporación de audio, video y animaciones. La Web 3.0 (actualidad y futuro) introduce la inteligencia artificial, la personalización y la semántica, y la Web 4.0 se perfila como una "red inteligente" con mayor interacción entre humanos y máquinas.
